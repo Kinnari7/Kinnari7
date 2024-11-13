@@ -2,10 +2,12 @@
 
 👋 Hi, I'm Kinnari Kotadiya. I’m a passionate and dedicated software engineer based in Los Angeles, CA. With a strong educational background and diverse professional experience, I am currently pursuing a Master of Science in Computer Science at California State University, Los Angeles. I am also an active member of communities such as Google Developer Student Clubs (GDSC), Google Developer Groups (GDG), Women Techmakers, and serve as an Adobe Student Ambassador, among others.
 <br/>
-Let's build something amazing together!⚡
+- ⚡ Let's build something amazing together !!
+- 📫 Reach out to me via email at kinnarim.kotadiya@gmail.com or connect with me on LinkedIn.
+- 🌱 I’m looking forward to collaborate on projects and open source contribution.
 
 ## 🌐 Socials:
-Feel free to reach out to me for potential collaborations, questions, or just a friendly chat about the latest in tech.
+Feel free to reach out to me for potential collaborations, questions, or just a friendly chat about the latest in tech.<br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinnarik/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kinnari2171998)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kinnari_68529)
