@@ -1,7 +1,8 @@
 ## Welcome to my Creative Journey 💫
 
 👋 Hi, I'm Kinnari Kotadiya. I’m a passionate and dedicated software engineer based in Los Angeles, CA. With a strong educational background and diverse professional experience, I am currently pursuing a Master of Science in Computer Science at California State University, Los Angeles. I am also an active member of communities such as Google Developer Student Clubs (GDSC), Google Developer Groups (GDG), Women Techmakers, and serve as an Adobe Student Ambassador, among others.
-Let's build something amazing together!
+<br/>
+Let's build something amazing together!⚡
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinnarik/)
@@ -19,6 +20,7 @@ Let's build something amazing together!
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+<br/>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
@@ -36,5 +38,4 @@ Let's build something amazing together!
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinnari7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kinnari7&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinnari7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
