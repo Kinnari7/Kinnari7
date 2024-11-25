@@ -40,8 +40,3 @@ Feel free to reach out to me for potential collaborations, questions, or just a 
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinnari7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## Visitor Count
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/Kinnari7/count.svg" />
-</p>
